@@ -1,6 +1,6 @@
-# clase-4-INTV
+# Clase-4-INTV
 ## Conectando Claude  con Netlify
-**Descripción**
+ **Descripción**
 *Utilizo los siguientes componentes de Claude:
   *Prompt con las 5 partes (rol, cpntexto, requerimiento, tarea, salida)
   *Archivo excel base de datos
@@ -9,4 +9,4 @@
   *archivo Index.html para Netlify
    
    ---
-   Adjunto link [[INDICADORES] ()]
+   Adjunto link [[INDICADORES]()]
